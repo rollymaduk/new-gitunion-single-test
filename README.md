@@ -28,3 +28,19 @@ This API provides a platform for real estate agents, property managers, and priv
 - [ ] [Rate Limiting](https://github.com/rollymaduk/new-gitunion-single-test/issues/20)
 
 
+
+
+## Feature: API for Tracking Projects
+This API provides a comprehensive solution for monitoring project progress and status across an organization. It allows users to create, update, and view details of various projects, including time tracking, resource allocation, milestones, and related documentation. It solves the problem of decentralized project management by offering a unified platform for team collaboration and reporting, thereby enhancing productivity and ensuring timely delivery of project objectives. Benefits include real-time updates, customizable reports, enhanced communication among stakeholders, and data-driven insights for informed decision-making.
+
+***Stories***
+- [ ] [Project Tracking API](https://github.com/rollymaduk/new-gitunion-single-test/issues/24)
+- [ ] [Project Tracking API](https://github.com/rollymaduk/new-gitunion-single-test/issues/25)
+- [ ] [Project Tracking API](https://github.com/rollymaduk/new-gitunion-single-test/issues/26)
+- [ ] [TeamMembers API Specification](https://github.com/rollymaduk/new-gitunion-single-test/issues/27)
+- [ ] [Project Timelines API](https://github.com/rollymaduk/new-gitunion-single-test/issues/28)
+- [ ] [Budget Tracking for Projects](https://github.com/rollymaduk/new-gitunion-single-test/issues/29)
+- [ ] [Project Tracking API](https://github.com/rollymaduk/new-gitunion-single-test/issues/30)
+- [ ] [Status Updates API](https://github.com/rollymaduk/new-gitunion-single-test/issues/31)
+
+
