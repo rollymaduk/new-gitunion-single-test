@@ -76,3 +76,19 @@ This application interface is a comprehensive solution designed to support talen
 - [ ] [Financial Overview](https://github.com/rollymaduk/new-gitunion-single-test/issues/55)
 
 
+
+
+## Feature: Management Contract - EQ - Desktop
+Unable to provide a detailed description as it requires analyzing the content of an image at the provided URL, which is not accessible without image processing capability.
+
+***Stories***
+- [ ] [Title and Introduction Specification](https://github.com/rollymaduk/new-gitunion-single-test/issues/58)
+- [ ] [Obligations of the Manager](https://github.com/rollymaduk/new-gitunion-single-test/issues/59)
+- [ ] [Compensation and Term](https://github.com/rollymaduk/new-gitunion-single-test/issues/60)
+- [ ] [Representation and Warranties](https://github.com/rollymaduk/new-gitunion-single-test/issues/61)
+- [ ] [Confidentiality Specifications](https://github.com/rollymaduk/new-gitunion-single-test/issues/62)
+- [ ] [Intellectual Property Management](https://github.com/rollymaduk/new-gitunion-single-test/issues/63)
+- [ ] [Termination Clause](https://github.com/rollymaduk/new-gitunion-single-test/issues/64)
+- [ ] [General Provisions](https://github.com/rollymaduk/new-gitunion-single-test/issues/65)
+
+
