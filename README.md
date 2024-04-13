@@ -44,3 +44,19 @@ This API provides a comprehensive solution for monitoring project progress and s
 - [ ] [Status Updates API](https://github.com/rollymaduk/new-gitunion-single-test/issues/31)
 
 
+
+
+## Feature: Firebase Storage File Access
+Direct URL to an object stored in Firebase Storage, providing access to a file, possibly for a web or mobile application. This URL includes an authentication token, suggesting the resource is protected and intended for authorized use only. The key benefits include ease of access to assets, secure file distribution, and seamless integration with Firebase's suite of services.
+
+***Stories***
+- [ ] [Landing Page](https://github.com/rollymaduk/new-gitunion-single-test/issues/38)
+- [ ] [Feature: Project Collaboration](https://github.com/rollymaduk/new-gitunion-single-test/issues/39)
+- [ ] [About Us](https://github.com/rollymaduk/new-gitunion-single-test/issues/40)
+- [ ] [Testimonials Feature](https://github.com/rollymaduk/new-gitunion-single-test/issues/41)
+- [ ] [Pricing Specification](https://github.com/rollymaduk/new-gitunion-single-test/issues/42)
+- [ ] [FAQ Functionality](https://github.com/rollymaduk/new-gitunion-single-test/issues/43)
+- [ ] [Contact Management](https://github.com/rollymaduk/new-gitunion-single-test/issues/44)
+- [ ] [Footer Design Specification](https://github.com/rollymaduk/new-gitunion-single-test/issues/45)
+
+
