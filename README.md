@@ -92,3 +92,19 @@ Unable to provide a detailed description as it requires analyzing the content of
 - [ ] [General Provisions](https://github.com/rollymaduk/new-gitunion-single-test/issues/65)
 
 
+
+
+## Feature: Management Contract Analysis Interface
+This application interface is designed to provide users with a comprehensive analysis of management contracts. The interface helps in solving the problem of complex contract terms by visualizing key contract elements in an intuitive manner. Users benefit from a clear understanding of management share percentages, the duration of obligations post-contract term, total gross earnings from the contract, and the overall term length. These visual representations aid in quick assessments and informed decision-making for stakeholders involved in contract negotiations and management. The feature simplifies data interpretation, enhances transparency in management agreements, and ultimately supports better financial and legal outcomes.
+
+***Stories***
+- [ ] [Management Share Visualization](https://github.com/rollymaduk/new-gitunion-single-test/issues/69)
+- [ ] [Post-Term Duration Analysis](https://github.com/rollymaduk/new-gitunion-single-test/issues/70)
+- [ ] [Gross Earnings Chart](https://github.com/rollymaduk/new-gitunion-single-test/issues/71)
+- [ ] [TermLengthOverview](https://github.com/rollymaduk/new-gitunion-single-test/issues/72)
+- [ ] [Contract Details Summary](https://github.com/rollymaduk/new-gitunion-single-test/issues/73)
+- [ ] [Management Contract Analysis Interface](https://github.com/rollymaduk/new-gitunion-single-test/issues/74)
+- [ ] [Financial Projections Interface](https://github.com/rollymaduk/new-gitunion-single-test/issues/75)
+- [ ] [Legal Obligations Review Interface](https://github.com/rollymaduk/new-gitunion-single-test/issues/76)
+
+
